@@ -13,14 +13,14 @@ During the semester, Professor Love will set a series of "minute papers" which a
   
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
-3 | 2026-01-21 | To come | To Come
-5 | 2026-01-28
-7 | 2026-02-04
-9 | 2026-02-11
-13 | 2026-03-04
-16 | 2026-03-20
-18 | 2026-03-27
-22 | 2026-04-15
+3 | 2026-01-21 | To appear | To appear
+5 | 2026-01-28 | To appear | To appear
+7 | 2026-02-04 | To appear | To appear
+9 | 2026-02-11 | To appear | To appear
+13 | 2026-03-04 | To appear | To appear
+16 | 2026-03-20 | To appear | To appear
+18 | 2026-03-27 | To appear | To appear
+22 | 2026-04-15 | To appear | To appear
 
 </div>
 
