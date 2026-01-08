@@ -18,8 +18,8 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 7 | 2026-02-04 | To appear | To appear
 9 | 2026-02-11 | To appear | To appear
 13 | 2026-03-04 | To appear | To appear
-16 | 2026-03-20 | To appear | To appear
-18 | 2026-03-27 | To appear | To appear
+17 | 2026-03-25 | To appear | To appear
+19 | 2026-04-01 | To appear | To appear
 22 | 2026-04-15 | To appear | To appear
 
 </div>
