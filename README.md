@@ -13,7 +13,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
   
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
-3 | 2026-01-21 | To appear | To appear
+3 | 2026-01-21 | <https://bit.ly/432-2026-min-03> | To appear
 5 | 2026-01-28 | To appear | To appear
 7 | 2026-02-04 | To appear | To appear
 9 | 2026-02-11 | To appear | To appear
