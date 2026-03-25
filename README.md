@@ -18,7 +18,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 7 | 2026-02-04 | <https://bit.ly/432-2026-min-07> | <https://bit.ly/432-2026-min07-feedback>
 9 | 2026-02-11 | <https://bit.ly/432-2026-min-09> | <https://bit.ly/432-2026-min09-feedback>
 13 | 2026-03-04 | <https://bit.ly/432-2026-min-13> | <https://bit.ly/432-2026-min13-feedback>
-17 | 2026-03-25 | <https://bit.ly/432-2026-min-17> | To appear
+17 | 2026-03-25 | <https://bit.ly/432-2026-min-17> | <https://bit.ly/432-2026-min17-feedback>
 19 | 2026-04-01 | To appear | To appear
 22 | 2026-04-15 | To appear | To appear
 
